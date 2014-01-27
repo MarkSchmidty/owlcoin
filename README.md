@@ -1,9 +1,10 @@
 # Owlcoin [OWL, Ø] Integration/Staging Tree
 
-## Owlcoin is currently an exact copy of dogecoin- it is dogecoin! This will change soon. Until then, don't even bother downloading and running this!
+## Owlcoin is currently an exact copy of dogecoin! 
+In fact, it IS dogecoin. This will change soon. Until then, don't even bother downloading and running this!
 
 ## What is owlcoin? - Such coin
-owlcoin is like Bitcoin, but based on dogecoin, and also much more of a hoot.
+Owlcoin is like Bitcoin, but based on dogecoin, and also much more of a hoot.
 
 ## Development and contributions - omg developers
 Developers work in their own trees, then submit pull requests when they think
